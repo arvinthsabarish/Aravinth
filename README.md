@@ -84,7 +84,7 @@ Include fade or slide transition animations
 
 
 ## Author
-*HARISH V*
+*ARAVINTH .M.N*
 Email:[arvinthsabarish@gmail.com]
 Github:[https://github.com/arvinthsabarish/Aravinth.git]
 ---
